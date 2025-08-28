@@ -1,0 +1,11 @@
+MCQ,Choices,Correct
+Who coined the term 'machine learning'?,a:Donald Hebb | b:Alan Turing | c:Arthur Samuel | d:Tom M. Mitchell,c
+What alternative term was used for machine learning around 1959?,a:Artificial Intelligence | b:Self-teaching computers | c:Cybernetics | d:Pattern Recognition,b
+What was Arthur Samuel's early machine learning program about?,a:Analyzing sonar signals | b:Recognizing handwritten characters | c:Calculating winning chances in checkers | d:Predicting stock market trends,c
+"Whose book, ""The Organization of Behavior"", introduced a theoretical neural structure relevant to machine learning?",a:Walter Pitts | b:Warren McCulloch | c:Donald Hebb | d:Tom M. Mitchell,c
+What early 'learning machine' used punched tape memory and reinforcement learning?,a:IBM 701 | b:Cybertron | c:ENIAC | d:Differential Analyzer,b
+Nilsson's book on Learning Machines primarily focused on which aspect of machine learning?,a:Reinforcement learning | b:Supervised learning | c:Unsupervised learning | d:Machine learning for pattern classification,d
+"In 1981, a report demonstrated an artificial neural network learning to recognize what?","a:Sonar signals | b:Electrocardiograms | c:40 characters (letters, digits, symbols) | d:Speech patterns",c
+"According to Tom M. Mitchell's definition, what improves with experience in machine learning?",a:The amount of data processed | b:The speed of computation | c:Performance at tasks | d:The complexity of algorithms,c
+"Which of the following is NOT a modern objective of machine learning, according to the text?",a:Data classification | b:Prediction of future outcomes | c:Development of new algorithms from scratch | d:Using developed models for classification and prediction,c
+How does the text relate Alan Turing's work to machine learning?,"a:Turing directly defined machine learning. | b:Turing's work on computing influenced the operational definition of machine learning. | c:Turing's work was unrelated to machine learning. | d:Turing's work focused solely on AI, not machine learning.",b
