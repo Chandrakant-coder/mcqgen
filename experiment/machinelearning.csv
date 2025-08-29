@@ -1,11 +1,11 @@
 MCQ,Choices,Correct
 Who coined the term 'machine learning'?,a:Donald Hebb | b:Alan Turing | c:Arthur Samuel | d:Tom M. Mitchell,c
-What was an early synonym for 'machine learning'?,a:Artificial Intelligence | b:Self-teaching computers | c:Cybernetics | d:Pattern Recognition,b
-What game was used in one of the earliest machine learning programs?,a:Chess | b:Checkers | c:Go | d:Tic-Tac-Toe,b
-"Whose book, 'The Organization of Behavior,' introduced a theoretical neural structure influencing AI?",a:Walter Pitts | b:Warren McCulloch | c:Donald Hebb | d:Tom M. Mitchell,c
-What early 'learning machine' used reinforcement learning to analyze signals?,a:Deep Blue | b:Cybertron | c:IBM 701 | d:ENIAC,b
-What type of learning did Cybertron use?,a:Supervised Learning | b:Unsupervised Learning | c:Reinforcement Learning | d:Deep Learning,c
-In what decade did Nilsson's book on 'Learning Machines' focusing on pattern classification appear?,a:1950s | b:1960s | c:1970s | d:1980s,b
-Tom M. Mitchell's definition of machine learning focuses on which aspect?,a:Cognitive processes | b:Improved performance based on experience | c:Neural network architecture | d:Specific algorithms,b
-"According to the text, what is ONE objective of modern machine learning?",a:To build self-aware systems | b:To classify data based on developed models | c:To create new programming languages | d:To replace human decision-making entirely,b
-Which of these is an example of a machine learning application mentioned in the text?,a:Weather forecasting | b:Cancerous mole classification | c:Quantum computing | d:Space exploration,b
+What alternative term was used for machine learning around 1959?,a:Artificial Intelligence | b:Self-teaching computers | c:Cybernetics | d:Pattern Recognition,b
+What game was used in one of the earliest machine learning programs?,a:Chess | b:Checkers | c:Go | d:Tic-tac-toe,b
+"Whose book, 'The Organization of Behavior', introduced a theoretical neural structure influencing AI?",a:Walter Pitts | b:Warren McCulloch | c:Donald Hebb | d:Arthur Samuel,c
+What early 'learning machine' used reinforcement learning to analyze signals?,a:IBM 701 | b:Cybertron | c:ENIAC | d:UNIVAC,b
+Nilsson's book on 'Learning Machines' focused primarily on which aspect of machine learning?,a:Reinforcement learning | b:Supervised learning | c:Unsupervised learning | d:Pattern classification,d
+Who provided a widely quoted formal definition of machine learning algorithms focusing on performance improvement?,a:Alan Turing | b:Arthur Samuel | c:Tom M. Mitchell | d:Donald Hebb,c
+"According to Tom M. Mitchell's definition, what three elements are essential to define machine learning?","a:Data, Algorithm, Model | b:Experience (E), Tasks (T), Performance Measure (P) | c:Input, Process, Output | d:Training, Testing, Validation",b
+Which of the following is NOT a modern objective of machine learning as described in the text?,a:Data classification | b:Future outcome prediction | c:Hardware design optimization | d:Both a and b,c
+What type of learning is mentioned in the text as being used to train a computer vision system to classify cancerous moles?,a:Reinforcement learning | b:Unsupervised learning | c:Supervised learning | d:Transfer learning,c
